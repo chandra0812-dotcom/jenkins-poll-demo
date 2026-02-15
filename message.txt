@@ -1,0 +1,2 @@
+Hello Jenkins Poll SCM lab 
+Version 1
